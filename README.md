@@ -22,7 +22,7 @@ The procedure is usually the following:
 
 3. I then distribute the transcripts that students read in pairs, instructed to pay attention to certain elements, such as politeness phrases, names of dishes, terms of address, or whatever may be of interest in that particular text. They are also asked to mark things they want to comment or ask about.
 
-4. We discuss the text together with the transcript projected at the whiteboard, focusing on the things they were asked to pay attention to and to things they had noted whilst reading.
+4. We discuss the text together with the transcript projected on the whiteboard, focusing on the things they were asked to pay attention to and to things they had noted whilst reading.
 
 I have found that we need at least 45 min. of class time to go through the steps above. If there is more time after the discussion I have students read small sections of the text aloud. The other half of class time (we usually have 2x45 min. classes) is spent on conversation exercises, typically where phrases from the video can be used.
 
