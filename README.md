@@ -4,7 +4,7 @@ This repository contains transcripts of video dialogues from the Arabic textbook
 
 ## Background
 
-*Al-Kitaab* includes videos with dialogues in Syrian and Egyptian Arabic. The authors have done a very good job in creating dialogues that feel authentic and are communicatively relevant while being restricted by the grammar and vocabulary of the book. It the University of Gothenburg our Arabic program includes a course in Spoken Arabic (currently Syrian) that runs parallel to our course in Standard Arabic. These videos form main part of this course. I have also used these videos, with the procedure described below, in Standard Arabic courses before we had any dedicated course for Spoken Arabic, focusing then on features that contrast with Standard Arabic.
+*Al-Kitaab* includes videos with dialogues in Syrian and Egyptian Arabic. The authors have done a very good job in creating dialogues that feel authentic and are communicatively relevant while being restricted by the grammar and vocabulary of the book. At the University of Gothenburg our Arabic program includes a course in Spoken Arabic (currently Syrian) that runs parallel to our course in Standard Arabic. These videos form main part of this course. I have also used these videos, with the procedure described below, in Standard Arabic courses before we had any dedicated course for Spoken Arabic, focusing then on features that contrast with Standard Arabic.
 
 ## Orthography
 
