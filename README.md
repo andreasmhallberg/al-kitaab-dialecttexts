@@ -1,16 +1,14 @@
 # Transcripts of Syrian Arabic dialogue videos from *Al-Kitaab fii taʿallum al-ʿarabiyya,* Part 1 (3d ed.)
 
-This repository contains transcripts of video dialogues from the Arabic textbook *Al-Kitaab fii taʿallum al-ʿarabiyya*, Part&nbsp;1, Third edition.
-
-Currently only the longer dialogue in Damascene (*shaamiyy*) Arabic from chapter 1--8 are included. Texts for chapter 9--15 will be added this spring. The قصة بالعامية texts may be added in the future.
-
-Transcripts were written in markdown and then converted to pdf via [pandoc](http://pandoc.org). Both markdownfiles and pdfs are included in this repository.
+This repository contains transcripts of video dialogues from the Arabic textbook *Al-Kitaab fii taʿallum al-ʿarabiyya*, Part&nbsp;1, Third edition. Currently only the longer dialogue in Damascene (*shaamiyy*) Arabic from chapter 1--8 are included. Texts for chapter 9--15 will be added this spring. The قصة بالعامية texts may be added in the future. Transcripts were written in markdown and then converted to pdf via [pandoc](http://pandoc.org). Both markdownfiles and pdfs are included in this repository.
 
 ## Background
 
-*Al-Kitaab* includes videos with dialogues in Syrian and Egyptian Arabic. The authors have done a really good job in creating dialogues that feel authentic and are communicatively relevant while being restricted by the grammar and vocabulary of the book.
+*Al-Kitaab* includes videos with dialogues in Syrian and Egyptian Arabic. The authors have done a really good job in creating dialogues that feel authentic and are communicatively relevant while being restricted by the grammar and vocabulary of the book. It the University of Gothenburg our Arabic program includes a course in Spoken Arabic (currently Syrian) that runs parallel to our course in Standard Arabic. For this course these videos form main part. I have also used these videos, using the procedure described below, in courses in Standard Arabic before we had any dedicated course for Spoken Arabic, focusing then on features that contrast with Standard Arabic.
 
-It the University of Gothenburg our Arabic program includes a course in Spoken Arabic (currently Syrian) that runs parallel to our course in Standard Arabic. For this course these videos form main part. Before we had courses in Spoken Arabic I included some of these dialectal videos, using the procedure above, to give students a taste of spoken varieties of Arabic, focusing then on things that deviate from Standard Arabic.
+## Orthography
+
+The transcripts are written with Arabic script. I have tried to follow orthographic practices of *Al-Kitaab*, which follows Standard Arabic orthography, even when I think it is at odds with orthographic practices of written Syrian Arabic (e.g. the 3ms enclitic pronoun is here ـه as in the book rather the conventional ـو). Dialectal phonology is reflected in some words (e.g. تلاتة) but not in others (e.g. الحقيقة).
 
 ## Teaching procedure
 
