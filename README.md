@@ -1,10 +1,10 @@
 # Transcripts of Syrian Arabic dialogue videos from *Al-Kitaab fii taʿallum al-ʿarabiyya,* Part 1 (3d ed.)
 
-This repository contains transcripts of video dialogues from the Arabic textbook *Al-Kitaab fii taʿallum al-ʿarabiyya*, Part&nbsp;1, Third edition. Currently only the longer dialogue in Damascene (*shaamiyy*) Arabic from chapter 1--8 are included. Texts for chapter 9--15 will be added this spring. The قصة بالعامية texts may be added in the future. Transcripts were written in markdown and then converted to pdf via [pandoc](http://pandoc.org). Both markdownfiles and pdfs are included in this repository.
+This repository contains transcripts of video dialogues from the Arabic textbook *Al-Kitaab fii taʿallum al-ʿarabiyya*, Part&nbsp;1, Third edition. Currently, only the longer dialogue in Damascene (*shaamiyy*) Arabic from chapter 1--8 are included. Texts for chapter 9--15 will be added this spring. The قصة بالعامية texts may be added in the future. Transcripts were written in markdown and then converted to pdf via [pandoc](http://pandoc.org). Both markdownfiles and pdfs are included in this repository.
 
 ## Background
 
-*Al-Kitaab* includes videos with dialogues in Syrian and Egyptian Arabic. The authors have done a really good job in creating dialogues that feel authentic and are communicatively relevant while being restricted by the grammar and vocabulary of the book. It the University of Gothenburg our Arabic program includes a course in Spoken Arabic (currently Syrian) that runs parallel to our course in Standard Arabic. For this course these videos form main part. I have also used these videos, using the procedure described below, in courses in Standard Arabic before we had any dedicated course for Spoken Arabic, focusing then on features that contrast with Standard Arabic.
+*Al-Kitaab* includes videos with dialogues in Syrian and Egyptian Arabic. The authors have done a very good job in creating dialogues that feel authentic and are communicatively relevant while being restricted by the grammar and vocabulary of the book. It the University of Gothenburg our Arabic program includes a course in Spoken Arabic (currently Syrian) that runs parallel to our course in Standard Arabic. These videos form main part of this course. I have also used these videos, with the procedure described below, in Standard Arabic courses before we had any dedicated course for Spoken Arabic, focusing then on features that contrast with Standard Arabic.
 
 ## Orthography
 
@@ -18,7 +18,7 @@ The procedure is usually the following:
 
 1. Students watch the video at home in preparation for the class.
 
-2. In class we watch the video once and then discuss what is happening in the scene to make sure that everyone has a rough idea of the contents.
+2. In class, we watch the video once and then discuss what is happening in the scene to make sure that everyone has a rough idea of the contents.
 
 3. I then distribute the transcripts that students read in pairs, instructed to pay attention to certain elements, such as politeness phrases, names of dishes, terms of address, or whatever may be of interest in that particular text. They are also asked to mark things they want to comment or ask about.
 
