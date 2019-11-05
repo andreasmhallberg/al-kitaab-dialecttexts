@@ -1,18 +1,20 @@
 # Transcripts of Syrian Arabic dialogue videos from *Al-Kitaab fii taʿallum al-ʿarabiyya,* Part 1 (3d ed.)
 
-This repository contains transcripts of video dialogues from the Arabic textbook *Al-Kitaab fii taʿallum al-ʿarabiyya*, Part&nbsp;1, Third edition. Currently, only the longer dialogue in Damascene (*shaamiyy*) Arabic from chapter 1--8 are included. Texts for chapter 9--15 will be added this spring. The قصة بالعامية texts may be added in the future. Transcripts were written in markdown and then converted to pdf via [pandoc](http://pandoc.org). Both markdownfiles and pdfs are included in this repository.
+This repository contains transcripts of video dialogues from the Arabic textbook *Al-Kitaab fii taʿallum al-ʿarabiyya*, Part&nbsp;1, Third edition. Currently, only the longer dialogues in Damascene (*shaamiyy*) Arabic from chapters 1–8 are included. Transcripts for dialogues in chapter 9–15 will be added this spring. Transcripts for قصة بالعامية texts may be added in the future. Transcripts were written in markdown and then converted to pdf via [pandoc](http://pandoc.org). Both markdownfiles and pdfs are included in this repository. The videos are available at <http://alkitabbtextbook.com>.
+
 
 ## Background
 
-*Al-Kitaab* includes videos with dialogues in Syrian and Egyptian Arabic. The authors have done a very good job in creating dialogues that feel authentic and are communicatively relevant while being restricted by the grammar and vocabulary of the book. At the University of Gothenburg our Arabic program includes a course in Spoken Arabic (currently Syrian) that runs parallel to our course in Standard Arabic. These videos form main part of this course. I have also used these videos, with the procedure described below, in Standard Arabic courses before we had any dedicated course for Spoken Arabic, focusing then on features that contrast with Standard Arabic.
+*Al-Kitaab* includes videos with dialogues in Syrian and Egyptian Arabic. The authors have done a very good job in creating dialogues that feel authentic and are communicatively relevant while being restricted by the grammar and vocabulary of the book. The pedagogical idea behind the inclusion of the videos in the book is for students to improve their listening comprehension of spoken material, and therefore no text is provided. I however feel that a written text is necessary for detailed discussion in that it makes it possible to point at things, look at several places in the text simultaneously, and go through the material slowly and methodically without having to pause and play. I therefore transcribed the texts I use in class.
+
+The Arabic program at the University of Gothenburg (where I teach) includes courses in Spoken Arabic, currently Syrian Arabic, that runs parallel to the courses in Standard Arabic. These videos form main part of these courses. I have also used these videos in Standard Arabic courses before we had any dedicated course for Spoken Arabic, focusing then on features that contrast with Standard Arabic.
 
 ## Orthography
 
-The transcripts are written with Arabic script. I have tried to follow orthographic practices of *Al-Kitaab*, which follows Standard Arabic orthography, even when I think it is at odds with orthographic practices of written Syrian Arabic (e.g. the 3ms enclitic pronoun is here ـه as in the book rather the conventional ـو). Dialectal phonology is reflected in some words (e.g. تلاتة) but not in others (e.g. الحقيقة).
+The transcripts are written with Arabic script. I have tried to follow orthographic practices of *Al-Kitaab*, which follows Standard Arabic orthography, even when I think it is at odds with orthographic practices of written Syrian Arabic (e.g. the 3ms enclitic pronoun is here ـه as in the book rather the conventional ـو). Dialectal phonology is reflected in the spelling some words (e.g. تلاتة) but not in others (e.g. الحقيقة).
 
 ## Teaching procedure
 
-The pedagogical idea behind the inclusion of the videos in the book is for students to improve their listening comprehension of spoken material, and therefore no text is provided. I however feel that a written text is necessary for detailed discussion. This makes it possible to point at things, look at several places in the text simultaneously, etc. I therefore transcribed the texts I use in class.
 
 The procedure is usually the following:
 
