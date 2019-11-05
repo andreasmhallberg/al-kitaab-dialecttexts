@@ -1,8 +1,4 @@
----
-title: Dialect texts from <i>Al-Kitaab fii taʿallum al-ʿarabiyya</i>, Part 1 (3d ed.)
-lang: en
-author: Andeas Hallberg
----
+# Dialect texts from *Al-Kitaab fii taʿallum al-ʿarabiyya,* Part 1 (3d ed.)
 
 This repository contains transcripts of video dialogues from the Arabic textbook *Al-Kitaab fii taʿallum al-ʿarabiyya*, Part&nbsp;1, Third edition.
 
@@ -10,13 +6,13 @@ Currently only the longer dialogue in Damascene (*shaamiyy*) Arabic from chapter
 
 Transcripts were written in markdown and then converted to pdf via [pandoc](http://pandoc.org). Both markdownfiles and pdfs are included in this repository.
 
-# Background
+## Background
 
 *Al-Kitaab* includes videos with dialogues in Syrian and Egyptian Arabic. The authors have done a really good job in creating dialogues that feel authentic and are communicatively relevant while being restricted by the grammar and vocabulary of the book.
 
 It the University of Gothenburg our Arabic program includes a course in Spoken Arabic (currently Syrian) that runs parallel to our course in Standard Arabic. For this course these videos form main part. Before we had courses in Spoken Arabic I included some of these dialectal videos, using the procedure above, to give students a taste of spoken varieties of Arabic, focusing then on things that deviate from Standard Arabic.
 
-# Teaching procedure
+## Teaching procedure
 
 The pedagogical idea behind the inclusion of the videos in the book is for students to improve their listening comprehension of spoken material, and therefore no text is provided. I however feel that a written text is necessary for detailed discussion. This makes it possible to point at things, look at several places in the text simultaneously, etc. I therefore transcribed the texts I use in class.
 
@@ -32,7 +28,7 @@ The procedure is usually the following:
 
 I have found that we need at least 45 min. of class time to go through the steps above. If there is more time after the discussion I have students read small sections of the text aloud. The other half of class time (we usually have 2x45 min. classes) is spent on conversation exercises, typically where phrases from the video can be used.
 
-# Generating pdfs
+## Generating pdfs
 
 To generate the pdfs from the markdown (`.md`) files you need to have [pandoc](http://pandoc.org), the [Lateef](https://software.sil.org/lateef/) font, and a [standard LaTeX distribution](https://ctan.org/starter) installed on your system. All these are free (beer and freedom). `cd` into this repository and run the following command:
 
