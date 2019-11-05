@@ -1,4 +1,4 @@
-# Dialect texts from *Al-Kitaab fii taʿallum al-ʿarabiyya,* Part 1 (3d ed.)
+# Transcripts of Syrian Arabic dialogue videos from *Al-Kitaab fii taʿallum al-ʿarabiyya,* Part 1 (3d ed.)
 
 This repository contains transcripts of video dialogues from the Arabic textbook *Al-Kitaab fii taʿallum al-ʿarabiyya*, Part&nbsp;1, Third edition.
 
