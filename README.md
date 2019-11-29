@@ -12,22 +12,14 @@ The transcripts are written with Arabic script. I have tried to follow the ortho
 
 ## Teaching procedure
 
-The follow is done at the end of the week when we have covered the contents of chapter and students are familiar with the vocabulary. When using these videos in classes I usually follow the following procedure:
-
-1. Students watch the video at home in preparation for the class, guided by the accompanying questions in the book.
-
-2. In class, we watch the video once and then discuss what is happening in the scene to make sure that everyone has a rough idea of the contents.
-
-3. I then distribute the transcripts and have students read them through pairs or groups of three. They are instructed to pay attention to certain elements, such as politeness phrases, names of dishes, terms of address, or whatever may be of interest in that particular text. They are also asked to take notes of any comments or questions they might have, and not to get stuck if they find a certain passage difficult but to try to get through the text in the allotted time.
-
-4. We discuss the text together with the transcript projected on the whiteboard, focusing on the things they were asked to pay attention to and to things they had noted whilst reading.
-
-I have found that you need at least 45 min. of class time to go through the steps above, preferably a bit more. If there is more time after the discussion I have students read small sections of the text aloud.
+*To be added.*
 
 ## Generating pdfs
 
-To generate the pdfs from the markdown (`.md`) files you need to have [pandoc](http://pandoc.org), the [Lateef](https://software.sil.org/lateef/) font, and a [standard LaTeX distribution](https://ctan.org/starter) installed on your system. All these are free (beer and freedom). `cd` into this repository and run the following command:
+If you want to generate pdfs from the markdown (`.md`) files your yourself you need to have [pandoc](http://pandoc.org), the [Lateef](https://software.sil.org/lateef/) font, and a [standard LaTeX distribution](https://ctan.org/starter) installed on your computer. All these are free (beer and freedom). `cd` into the folder containing the markdown files and run the following command:
 
 ```
-pandoc <inputfile>.md --pdf-engine=xelatex -o <outputfile>.pdf
+pandoc 〈inputfile〉.md --pdf-engine=xelatex -o 〈outputfile〉.pdf
 ```
+
+
