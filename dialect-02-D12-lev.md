@@ -1,5 +1,5 @@
 ---
-title: 2-D12 Lev
+title: 'درس٢ - تمرين ١١: انت دايماً مشغول!'
 lang: ar
 header-includes:
   #  - \input{/Users/xhalaa/dotfiles/mypandocstuff/texttt-to-textarabic.tex}

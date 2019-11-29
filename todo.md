@@ -1,0 +1,2 @@
+- frenchspacing
+- title in document and filename
