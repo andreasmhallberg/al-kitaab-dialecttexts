@@ -1,6 +1,6 @@
 **Todo:**
 
-- `\frenchspacing`
+- ~\frenchspacing~
 - Add title in filename and in document
 
 
@@ -22,7 +22,7 @@ The transcripts are written with Arabic script. I have tried to follow the ortho
 
 ## Generating pdfs
 
-If you want to generate pdfs from the markdown (`.md`) files your yourself you need to have [pandoc](http://pandoc.org), the [Lateef](https://software.sil.org/lateef/) font, and a [standard LaTeX distribution](https://ctan.org/starter) installed on your computer. All these are free (beer and freedom). `cd` into the folder containing the markdown files and run the following command:
+If you want to generate pdfs from the markdown (`.md`) files your yourself you need to have [pandoc](http://pandoc.org), the [Scheherazade font](https://software.sil.org/scheherazade/), and a [standard LaTeX distribution](https://ctan.org/starter) installed on your computer. All these are free (beer and freedom). `cd` into the folder containing the markdown files and run the following command:
 
 ```
 pandoc 〈inputfile〉.md --pdf-engine=xelatex -o 〈outputfile〉.pdf
