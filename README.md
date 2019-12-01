@@ -6,7 +6,7 @@
 
 # Transcripts of Syrian Arabic dialogue videos from *Al-Kitaab fii taʿallum al-ʿarabiyya,* Part 1 (3d ed.)
 
-This repository contains transcripts of video dialogues from the Arabic textbook *Al-Kitaab fii taʿallum al-ʿarabiyya*, Part&nbsp;1, Third edition. Currently, only the longer dialogues in Damascene (*shaamiyy*) Arabic from chapters 1–8 are included. Transcripts for dialogues in chapter 9–15 will be added this spring. Transcripts for قصة بالعامية texts may be added in the future. Transcripts were written in markdown and then converted to pdf via [pandoc](http://pandoc.org). Both the markdown files and the pdfs are included in this repository. The videos are available at <http://alkitabtextbook.com>.
+This repository contains transcripts of video dialogues from the Arabic textbook *Al-Kitaab fii taʿallum al-ʿarabiyya*, Part&nbsp;1, Third edition. Currently, only the longer dialogues in Damascene (*shaamiyy*) Arabic from chapters 1–8 are included. Transcripts for dialogues in chapter 9–15 will be added this spring. Transcripts for [قصة بالعامية]{lang=ar} texts may be added in the future. Transcripts were written in markdown and then converted to pdf via [pandoc](http://pandoc.org). Both the markdown files and the pdfs are included in this repository. The videos are available at <http://alkitabtextbook.com>.
 
 ## Background
 
@@ -14,7 +14,7 @@ This repository contains transcripts of video dialogues from the Arabic textbook
 
 ## Orthography
 
-The transcripts are written with Arabic script. I have tried to follow the orthographic practices of *Al-Kitaab*, which follows Standard Arabic orthography, even when I think it is at odds with orthographic practices of written Syrian Arabic (e.g. the 3ms enclitic pronoun is here ـه as in the book rather the conventional ـو). Dialectal phonology is reflected in the spelling some words (e.g. تلاتة) but not in others (e.g. الحقيقة).
+The transcripts are written with Arabic script. I have tried to follow the orthographic practices of *Al-Kitaab*, which follows Standard Arabic orthography, even when I think it is at odds with orthographic practices of written Syrian Arabic (e.g. the 3ms enclitic pronoun is here [ـه]{lang=ar} as in the book rather the conventional [ـو]{lang=ar}). Dialectal phonology is reflected in the spelling some words (e.g. [تلاتة]{lang=ar}) but not in others (e.g. الحقيقة).
 
 ## Teaching procedure
 
