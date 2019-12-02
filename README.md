@@ -13,7 +13,7 @@ This repository contains transcripts of video dialogues from the Arabic textbook
 
 # Orthography
 
-The transcripts are written with Arabic script. I have tried to follow the orthographic practices of *Al-Kitaab*, which often follows Standard Arabic orthography, even when I think it is at odds with orthographic practices of written Syrian Arabic (e.g. the 3ms enclitic pronoun is here ـه as in the book rather the conventional ـو). Dialectal phonology is reflected in the spelling some words idiosyncratically (e.g. تلاتة) but not in others (e.g. الحقيقة).
+The transcripts are written with Arabic script. I have tried to follow the orthographic practices of *Al-Kitaab*, which often follows Standard Arabic orthography, even when I think it is at odds with orthographic practices of written Syrian Arabic (e.g. the 3ms enclitic pronoun is here ـه as in the book rather the conventional ـو). Dialectal phonology is reflected in the spelling some words (e.g. تلاتة) but not in others (e.g. الحقيقة).
 
 # Teaching procedure
 
