@@ -1,8 +1,9 @@
 **Todo:**
 
+- Write SA-dalect cognates with SA orthographic, so as not to complicate development of word identification skills.
+- Add title in filename and in document
 - ~\frenchspacing~ 2019-12-01
 - ~uniform YAML headers~ 2019-12-01
-- Add title in filename and in document
 
 
 This repository contains transcripts of video dialogues from the Arabic textbook *Al-Kitaab fii taʿallum al-ʿarabiyya*, Part&nbsp;1, Third edition. Currently, only the longer dialogues in Damascene (*shaamiyy*) Arabic from chapters 1–8 are included. Transcripts for dialogues in chapter 9–15 will be added this spring. Transcripts for قصة بالعامية texts may be added in the future. The texts are written in pandoc flavored markdown and converted to pdf via [pandoc](http://pandoc.org). Both the markdown files and the pdfs are included in this repository. The videos are available at <http://alkitaabtextbook.com>.
