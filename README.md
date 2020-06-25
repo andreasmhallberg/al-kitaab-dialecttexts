@@ -13,6 +13,8 @@
 
 This repository contains transcripts of the Syrian dialectal video dialogues from the Arabic textbook *Al-Kitaab fii taʿallum al-ʿarabiyya*, Part&nbsp;1, Third edition. The texts are written in pandoc flavored markdown and converted to pdf via [pandoc](http://pandoc.org). Both the markdown files and the pdfs are included in this repository. The videos are available at <http://alkitaabtextbook.com>.
 
+An index with links to the transcripts and the corresponding videos can be found in various formats (md, html, pdf, docx) can be found in `index.*`. These are useful to copy things from to use in course plans distributed to students. 
+
 # Background
 
 *Al-Kitaab* includes videos with dialogues in Syrian and Egyptian Arabic. The authors have done a very good job in creating dialogues that feel authentic and are communicatively relevant while being restricted by the grammar and vocabulary of the book. The pedagogical idea behind the inclusion of the videos in the book is for students to improve their listening comprehension of spoken material, and therefore no text is provided. I, however, find a written text to be useful for detailed discussion of the dialogue in the classroom, in that it makes it possible to point at things, look at several places in the text simultaneously, and go through the material slowly and methodically without having to pause and play. As a teacher, you can of course still use the videos to practice listening comprehension, by having students first listen to and extract information from the dialogues, and only thereafter give them the transcript.
