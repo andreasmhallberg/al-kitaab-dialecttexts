@@ -22,7 +22,7 @@ header-includes:
 | 5 extra | 06                         | [text](https://github.com/andreasmhallberg/al-kitaab-dialecttexts/raw/master/05-D22-sy.md.pdf)  | [video](https://youtu.be/EdK1m0haWkU) |
 | 6       | 22                         | [text](https://github.com/andreasmhallberg/al-kitaab-dialecttexts/raw/master/06-D14-sy.md.pdf)  | [video](https://youtu.be/Pjxtjf9KHUY) |
 | 7       | 14                         | [text](https://github.com/andreasmhallberg/al-kitaab-dialecttexts/raw/master/07-D16-sy.md.pdf)  | [video](https://youtu.be/4LV8QP_PTTA) |
-| 8       | 20                         |                                                                                                | [video](https://youtu.be/6XpWM0euS44) |
+| 8       | 20                         | [text](https://github.com/andreasmhallberg/al-kitaab-dialecttexts/raw/master/08-D20-sy.md.pdf)| [video](https://youtu.be/6XpWM0euS44) |
 | 9       | 05                         | [text](https://github.com/andreasmhallberg/al-kitaab-dialecttexts/raw/master/09-D17-sy.md.pdf)  | [video](https://youtu.be/8cgn-IVxgDE) |
 | 10      | 17                         | [text](https://github.com/andreasmhallberg/al-kitaab-dialecttexts/raw/master/10-D15-sy.md.pdf) | [video](https://youtu.be/e72q1pNzV-Q) |
 | 11      | 17                         | [text](https://github.com/andreasmhallberg/al-kitaab-dialecttexts/raw/master/11-D17-sy.md.pdf) | [video](https://youtu.be/30f0BHJ3Xi4) |
