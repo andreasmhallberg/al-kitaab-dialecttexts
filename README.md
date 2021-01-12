@@ -1,3 +1,18 @@
+---
+title: README
+lang: en
+author: Andreas Hallberg
+papersize: a4
+fontsize: 12pt
+mainfont: Linux Libertine O
+date: \today
+header-includes:
+    - \newfontfamily\arabicfont[Script=Arabic]{Lateef}
+    - \newfontfamily\arabicfontsf[Script=Arabic]{Lateef}
+    - \newfontfamily\arabicfontit[Script=Arabic]{Lateef}
+    - \frenchspacing
+    - \def\UrlFont{\itshape}
+---
 
 <!--
 - katīr and related with tā
@@ -15,7 +30,7 @@ An `index`-files lists in various formats with links to the transcripts and the 
 
 # Orthography
 
-The transcripts are written with Arabic script (i.e., not transcribed). I have tried to follow the orthographic practices of *Al-Kitaab*, which often follows Standard Arabic orthography, even when this is at odds with orthographic practices of written Syrian Arabic (e.g. the 3ms enclitic pronoun is here ـه as in the book rather the conventional ـو), although there are inconsistencies. Dialectal phonology is reflected in the spelling some words (e.g. تلاتة) but not in others (e.g. الحقيقة).
+The transcripts are written with Arabic script (i.e., not transcribed). I have tried to follow the orthographic practices of *Al-Kitaab*, which often follows Standard Arabic orthography, even when this is at odds with orthographic practices of written Syrian Arabic (e.g. the 3ms enclitic pronoun is here <span lang="ar" dir="rtl">ـه</span> as in the book rather the conventional <span lang="ar" dir="rtl">ـو</span>), although there are inconsistencies. Dialectal phonology is reflected in the spelling some words (e.g. <span lang="ar" dir="rtl">تلاتة</span>) but not in others (e.g. <span lang="ar" dir="rtl">الحقيقة</span>).
 
 # Teaching procedure
 
