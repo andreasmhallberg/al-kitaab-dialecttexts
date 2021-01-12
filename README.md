@@ -5,13 +5,13 @@
 -->
 
 
-This repository contains transcripts of the Syrian Arabic video dialogues from the Arabic textbook *Al-Kitaab fii taʿallum al-ʿarabiyya*, Part&nbsp;1, Third edition. The texts are written in pandoc flavored markdown and converted to pdf via [pandoc](http://pandoc.org). Both the markdown files and the pdfs are included in this repository. The videos are available at <http://alkitaabtextbook.com>.
+This repository contains transcripts of the Syrian Arabic video clips from the Arabic textbook *Al-Kitaab fii taʿallum al-ʿarabiyya*, Part&nbsp;1, Third edition (Brustad et al. 2013, Georgetown University Press). The texts are written in pandoc flavored markdown and converted to pdf via [pandoc](http://pandoc.org). Both the markdown files and the pdfs are included in this repository. The videos are available at <http://alkitaabtextbook.com>.
 
-An index in various formats (md, html, pdf, docx) with links to the transcripts and the corresponding videos can be found `index.*`. These are useful to copy things from to use in course plans and the like.
+An `index`-files lists in various formats with links to the transcripts and the corresponding videos, useful for copying from to lecture plans and the like.
 
 # Background
 
-*Al-Kitaab* includes videos with dialogues in Syrian and Egyptian Arabic. The authors have done a very good job in creating dialogues that feel authentic and are communicatively relevant, while being restricted by the grammar and vocabulary of the book. The pedagogical idea behind the inclusion of the videos in the book is for students to improve their listening comprehension of spoken material, and therefore no text is provided. I, however, find a written text to be useful for detailed discussion of the dialogue in the classroom, in that it makes it possible to point at things, look at several places in the text simultaneously, and go through the material slowly and methodically without having to pause and play. As a teacher, you can of course still use the videos to practice listening comprehension by having students first listen to and extract information from the dialogues, and only thereafter give them the transcript.
+*Al-Kitaab* includes videos with dialogues in Syrian and Egyptian Arabic. The authors have done a very good job in creating dialogues that feel authentic and are communicatively relevant, while at the same time being restricted by the grammar and vocabulary of the book. The pedagogical idea behind the inclusion of the videos in the book is for students to improve their listening comprehension of spoken material, and therefore no text is provided. I, however, find a written text to be useful for detailed discussion of the dialogue in the classroom, in that it makes it possible to point at things, look at several places in the text simultaneously, and go through the material slowly and methodically without having to pause and play. As a teacher, you can of course still use the videos to practice listening comprehension by having students first listen to and extract information from the dialogues, and only thereafter have them read the transcript.
 
 # Orthography
 
@@ -19,15 +19,15 @@ The transcripts are written with Arabic script (i.e., not transcribed). I have t
 
 # Teaching procedure
 
-At the Arabic department at the University of Gothenburg, we teach Spoken (Syrian) Arabic in parallel with Standard Arabic. Both courses use *Al-Kitaab*. We typically cover one chapter each week, with the Standard Arabic material covered in one course, and with one in Syrian Arabic at the end the week, covering the same material from the same chapter. Students are then familiar with the basic vocabulary when they encounter the Syrian Arabic texts.
+At the Arabic department at the University of Gothenburg we teach Spoken (Syrian) Arabic in parallel with Standard Arabic. Both courses use *Al-Kitaab*. We typically cover one chapter each week, with the Standard Arabic material in the chapter covered Monday to Thursday, the Syrian Arabic material covered on Friday. Students are then familiar with the basic vocabulary of the chapter when they are presented with the Syrian Arabic texts.
 
-For Spoken Arabic, students are provided with the manuscript before class and are given the following instructions:
+For the Spoken Arabic classes, students are provided with the transcript before class and are given the following instructions:
 
 1. View the video several times without looking at the manuscript. Pause and listen again to sections if you need to.
 
-2. Try to answer the questions in the book, still without looking at the manuscript.
+2. Try to answer the questions for the corresponding activity in the book, still without looking at the manuscript.
 
-3. Watch the video again, this time with the printed manuscript at hand. Take notes of comments or questions, and bring to class.
+3. Watch the video again, this time with the printed manuscript at hand. Take notes of comments or questions and bring to class.
 
 In class, we do the following:
 
@@ -37,13 +37,13 @@ In class, we do the following:
 
 3. The transcript is projected on the whiteboard for ease of reference.
 
-4. We discuss students' question, and I (the teacher) make further comments if needed.
+4. We discuss students' question, and I (the teacher) make further comments if needed. Much of this discussion is typically focused on pragmatics.
 
-The procedure above usually take around 45 min. The rest of the class (another 45 min) we do conversation exercises based on the vocabulary and phrases in the text.
+The procedure above usually take around 45 min. During the rest of the class (another 45 min) we do conversation exercises based on the vocabulary and phrases in the text.
 
 # Generating pdfs
 
-If you want to generate pdfs from the markdown (`.md`) files yourself you need to have [pandoc](http://pandoc.org), the [Scheherazade font](https://software.sil.org/scheherazade/), and a [standard LaTeX distribution](https://ctan.org/starter) installed on your computer. All these are free. `cd` into the folder containing the markdown files and run the following command:
+To generate pdfs from the markdown (`.md`) files you need to have [pandoc](http://pandoc.org), the [Scheherazade font](https://software.sil.org/scheherazade/), and a [standard LaTeX distribution](https://ctan.org/starter) installed on your system. All these are free. In the root directory of this repository run the following command:
 
 ```
 pandoc 〈inputfile〉.md --pdf-engine=xelatex -o 〈outputfile〉.pdf
